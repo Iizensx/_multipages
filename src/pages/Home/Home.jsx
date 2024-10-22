@@ -12,7 +12,7 @@ function Home() {
          <img src="src/pages/Home/ice1.JPG" alt="My Image"   />
       </div>
 
-      <div className="tit1-1">
+      <div className="tit2-2">
         <h3>
           <span className="highlight">Name :</span> Thanaphat Kreawring <br />
           <span className="highlight">Nickname :</span> Ice <br />
