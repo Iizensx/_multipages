@@ -13,6 +13,9 @@
 
 
 .title1{
+    position: relative;
+    top: 10px;
+    bottom: 300px;
     border: 1px solid;
     border-radius: 20px;
     text-align: center;

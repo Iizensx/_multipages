@@ -9,7 +9,7 @@ function Home() {
       <div classNAme="inner-border">
       <div classNAme="content-wrapper">
       <div className="title1">
-         <img src="src/pages/Home/ice1.JPG" alt="My Image" style={{ maxWidth: '100%', height: 'auto' }}  />
+         <img src="src/pages/Home/ice1.JPG" alt="My Image"   />
       </div>
 
       <div className="tit1-1">
