@@ -20,8 +20,10 @@
     border-radius: 20px;
     text-align: center;
     width: 320px;
-    margin-top: 20px;
-    margin-left: 80px;
+    height: 350px;
+    margin-left: 450px;
+    margin-top: 10px;
+    
     overflow: hidden;    /*แก้ขอบเกิน*/
     background-color: rgb(255, 255, 255);
     
@@ -35,7 +37,7 @@
   
 
 .tit1-1{
-    top: auto;
+    top: 70px;
     border: 10px;
     position: relative;
     bottom: 300px;
@@ -46,8 +48,9 @@
 }
 
 .tit2-2{
+    top: auto; ;
     position: relative;
-    bottom: 180px;
+    /* bottom: 180px; */
     text-align: left;
     margin-left: 25px;
     margin-right: 10px;
