@@ -23,7 +23,7 @@
     height: 350px;
     margin-left: 450px;
     margin-top: 10px;
-    
+    src: url(src/pages/Home/ice1.JPG);
     overflow: hidden;    /*แก้ขอบเกิน*/
     background-color: rgb(255, 255, 255);
     
